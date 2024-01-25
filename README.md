@@ -25,7 +25,7 @@ git clone https://github.com/Leonardo2716ba/Banco_de_Dados.git
 Mude para o diretório do projeto utilizando o comando:
 
 ```bash
-cd Banco_de_Dados
+cd Banco_de_Dados/SGBD
 ```
 
 ### 4. Execute o Make
